@@ -13,6 +13,7 @@
 		CBC0CCE01C044AC2004A7499 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CBC0CCDE1C044AC2004A7499 /* Main.storyboard */; };
 		CBC0CCE21C044AC2004A7499 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CBC0CCE11C044AC2004A7499 /* Assets.xcassets */; };
 		CBC0CCE51C044AC2004A7499 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CBC0CCE31C044AC2004A7499 /* LaunchScreen.storyboard */; };
+		CBC0CCED1C0453C2004A7499 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = CBC0CCEC1C0453C2004A7499 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		CBC0CCE11C044AC2004A7499 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CBC0CCE41C044AC2004A7499 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CBC0CCE61C044AC2004A7499 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CBC0CCEC1C0453C2004A7499 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 		CBC0CCD51C044AC2004A7499 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				CBC0CCEC1C0453C2004A7499 /* README.md */,
 				CBC0CCD61C044AC2004A7499 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -151,6 +154,7 @@
 			files = (
 				CBC0CCDD1C044AC2004A7499 /* ViewController.m in Sources */,
 				CBC0CCDA1C044AC2004A7499 /* AppDelegate.m in Sources */,
+				CBC0CCED1C0453C2004A7499 /* README.md in Sources */,
 				CBC0CCD71C044AC2004A7499 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
